@@ -1,0 +1,5 @@
+##python 3.x
+opencv-contrib-python
+pillow
+numpy
+matplotlib
